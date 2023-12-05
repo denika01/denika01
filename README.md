@@ -1,4 +1,24 @@
-### Hi there 👋
+<h1>👋🏾 Hi, I'm Denika! <br/><a href="https://www.linkedin.com/in/denika-randle/"> Identity and Access Management Professional</a>
+
+<h2>👩🏾‍💻 Identity and Access Management Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/denika01/home-lab-repo)
+- [Azure Sentinel Log Monitoring](https://github.com/denika01/azure-sentinel)
+
+<h2>📺 YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳🏾 Connect with me:</h2>
+
+[<img align="left" alt="DenikaRandle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DenikaRandle | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DenikaRandle | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[linkedin]: https://linkedin.com/in/denika-randle
+[instagram]: https://www.instagram.com/
+[youtube]: https://www.youtube.com/
 
 <!--
 **denika01/denika01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
