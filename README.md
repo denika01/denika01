@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/denika01/home-lab-repo)
 
 
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube Videos:</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) (Josh Madakor)
 
