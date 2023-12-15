@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/denika01/home-lab-repo)
+- [Hyper-V Home Lab Setup](https://github.com/denika01/home-lab-repo)
 
 
 <h2>📺 YouTube Videos:</h2>
