@@ -1,6 +1,6 @@
-<h1>👋🏾 Hi, I'm Denika! <br/><a href="https://www.linkedin.com/in/denika-randle/"> Identity and Access Management Professional</a>
+<h1>👋🏾 Hi, I'm Denika! <br/><a href="https://www.linkedin.com/in/denika-randle/"> Systems Administrator</a>
 
-<h2>👩🏾‍💻 Identity and Access Management Projects:</h2>
+<h2>👩🏾‍💻 Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/denika01/home-lab-repo)
 
