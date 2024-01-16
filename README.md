@@ -1,4 +1,4 @@
-<h1>👋🏾 Hi, I'm Denika! <br/><a href="https://www.linkedin.com/in/denika-randle/"> Systems Administrator</a>
+<h1>👋🏾 Hi, I'm Denika! <br/><a href="https://www.linkedin.com/in/denika-randle/"> Click Here to View My LinkedIn</a>
 
 <h2>👩🏾‍💻 Projects:</h2>
 
