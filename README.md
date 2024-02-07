@@ -1,16 +1,16 @@
-<h1>👋🏾 Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cybersecurity Professional</a>, <a href="https://github.com/denika01">Blogger</a></h1>
-<h2>👩🏾‍💻 Projects:</h2>
+<h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cybersecurity Professional</a>, <a href="https://github.com/denika01">Blogger</a></h1>
+<h2>Projects</h2>
 
 - <b>Cybersecurity</b>
   - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
 
 
-<h2>📺 YouTube Videos:</h2>
+<h2>Blog Posts</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) (Josh Madakor)
 
 
-<h2> 🤳🏾 Connect with me:</h2>
+<h2>Connect with me</h2>
 
 [<img align="left" alt="DenikaRandle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DenikaRandle | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
