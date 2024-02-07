@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Projects:</h2>
 
-- [Hyper-V Home Lab Setup](https://github.com/denika01/home-lab-repo)
+- [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
 
 
 <h2>📺 YouTube Videos:</h2>
