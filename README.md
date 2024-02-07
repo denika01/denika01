@@ -2,7 +2,8 @@
 
 <h2>👩🏾‍💻 Projects:</h2>
 
-- [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
+- <b>Cybersecurity</b>
+  - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
 
 
 <h2>📺 YouTube Videos:</h2>
