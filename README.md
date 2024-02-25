@@ -3,11 +3,8 @@
 
 - <b>Cybersecurity</b>
   - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
-    
   - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
-
   - [OpenVAS](https://github.com/denika01/OpenVAS-Basics)
- 
   - [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
 
 <h2>Blog Posts</h2>
