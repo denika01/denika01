@@ -3,12 +3,18 @@
 
 - <b>Cybersecurity</b>
   - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
+    
+  - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
 
+  - [OpenVAS](https://github.com/denika01/OpenVAS-Basics)
+ 
+  - [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
 
 <h2>Blog Posts</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) (Josh Madakor)
-
+- [My Time at CactusCon](https://www.dazi-tech.webflow.io)
+- [OpenVAS Basics](https://www.dazi-tech.webflow.io)
+- [Nessus Essentials](https://www.dazi-tech.webflow.io)
 
 <h2>Connect with me</h2>
 
