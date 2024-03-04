@@ -9,9 +9,7 @@
 
 <h2>Check Out My Blog Posts</h2>
 
-- [My Time at CactusCon](https://www.dazi-tech.webflow.io)
-- [OpenVAS Basics](https://www.dazi-tech.webflow.io)
-- [Nessus Essentials](https://www.dazi-tech.webflow.io)
+- [My First CactusCon](https://www.dazi-tech.webflow.io)
 
 <h2>Connect with me</h2>
 
