@@ -1,13 +1,13 @@
 <h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cybersecurity Professional</a>, and <a href="https://github.com/denika01">Blogger</a></h1>
-<h2>My Projects</h2>
+<h2>Check Out My Projects</h2>
 
-- <b>Cybersecurity</b>
-  - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
-  - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
-  - [OpenVAS](https://github.com/denika01/OpenVAS-Basics)
-  - [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
 
-<h2>Blog Posts</h2>
+- [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
+- [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
+- [OpenVAS](https://github.com/denika01/OpenVAS-Basics)
+- [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
+
+<h2>Check Out My Blog Posts</h2>
 
 - [My Time at CactusCon](https://www.dazi-tech.webflow.io)
 - [OpenVAS Basics](https://www.dazi-tech.webflow.io)
