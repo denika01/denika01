@@ -7,8 +7,8 @@
 - [Threat Hunting](https://github.com/denika01/Ransomware-Simulation)
 - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
 - [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
-- [Digital Investigation Simulation](https://github.com/denika01/PhishingEmail-Simulation)
-- [Data Analysis, Incident Response, Penetration Test Simulation](https://github.com/denika01/PhishingEmail-Simulation)
+- [Digital Investigation Simulation](https://github.com/denika01/Digital-Investigation)
+- [Data Analysis, Incident Response, Penetration Test Simulation](https://github.com/denika01/CyberTeam-Simulation)
 
 <h2>Check Out My Blog Posts</h2>
 
