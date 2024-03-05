@@ -3,9 +3,12 @@
 
 
 - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
+- [Vulnerability Management](https://github.com/denika01/Ransomware-Simulation)
+- [Threat Hunting](https://github.com/denika01/Ransomware-Simulation)
 - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
-- [OpenVAS](https://github.com/denika01/OpenVAS-Basics)
 - [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
+- [Digital Investigation Simulation](https://github.com/denika01/PhishingEmail-Simulation)
+- [Data Analysis, Incident Response, Penetration Test Simulation](https://github.com/denika01/PhishingEmail-Simulation)
 
 <h2>Check Out My Blog Posts</h2>
 
