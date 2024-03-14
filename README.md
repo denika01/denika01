@@ -12,7 +12,7 @@
 
 <h2>Check Out My Blog Posts</h2>
 
-- [My First CactusCon](https://www.dazi-tech.webflow.io)
+- [My First CactusCon](https://dazi-tech.webflow.io/posts/my-time-at-cactuscon)
 
 <h2>Connect with me</h2>
 
