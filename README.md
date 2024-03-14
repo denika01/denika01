@@ -12,7 +12,8 @@
 
 <h2>Check Out My Blog Posts</h2>
 
-- [My First CactusCon](https://dazi-tech.webflow.io/posts/my-time-at-cactuscon)
+- [My First CactusCon](https://dazi-tech.webflow.io/posts/my-time-at-cactuscon){:target="_blank"}
+- <a href="https://dazi-tech.webflow.io/posts/my-time-at-cactuscon" target="_blank">My First CactusCon</a>
 
 <h2>Connect with me</h2>
 
