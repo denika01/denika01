@@ -6,9 +6,8 @@
 - [Vulnerability Assessment](https://github.com/denika01/Vulnerability-Assessment)
 - [Threat Hunting](https://github.com/denika01/Threat-Hunting)
 - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
-- [Phishing Email Simulation](https://github.com/denika01/PhishingEmail-Simulation)
 - [Digital Investigation Simulation](https://github.com/denika01/Digital-Investigation)
-- [Data Analysis, Incident Response, Penetration Test Simulation](https://github.com/denika01/CyberTeam-Simulation)
+- [Cloud Resume Challenge](https://github.com/denika01/Digital-Investigation)
 
 <h2>Check Out My Blog Posts</h2>
 
