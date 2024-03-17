@@ -2,10 +2,9 @@
 <h2>Check Out My Projects</h2>
 
 - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
-- [Cloud Detection Lab](https://github.com/denika01/Cloud-Detection-Lab)
+- [Honeypot Install with Terraform](https://github.com/denika01/Cloud-Detection-Lab)
 - [Vulnerability Assessment](https://github.com/denika01/Vulnerability-Assessment)
 - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
-- [Digital Investigation Simulation](https://github.com/denika01/Digital-Investigation)
 - [Cloud Resume Challenge](https://github.com/denika01/Cloud-Resume)
 
 <h2>Check Out My Blog Posts</h2>
