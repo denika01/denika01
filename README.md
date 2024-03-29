@@ -1,4 +1,4 @@
-<h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cybersecurity Professional</a>, and <a href="https://github.com/denika01">Blogger</a></h1>
+<h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cloud Security Professional</a>, and <a href="https://github.com/denika01">Blogger</a></h1>
 <h2>Check Out My Projects</h2>
 
 - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
