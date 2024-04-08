@@ -1,11 +1,14 @@
 <h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cloud Security Professional</a>, and <a href="https://github.com/denika01">Blogger</a></h1>
 <h2>Check Out My Projects</h2>
 
-- [Cloud Resume Challenge](https://github.com/denika01/Cloud-Resume)
-- [Honeypot Install with Terraform](https://github.com/denika01/Terraform-Honeypot)
-- [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
-- [Vulnerability Assessment](https://github.com/denika01/Vulnerability-Assessment)
-- [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
+- <b>Cloud Projects</b>
+  - [Cloud Resume Challenge](https://github.com/denika01/Cloud-Resume)
+  - [Honeypot Install with Terraform](https://github.com/denika01/Terraform-Honeypot)
+  - [Cloud SOC and Honeynet](https://github.com/denika01/cloud-soc)
+
+- <b>Security Projects</b>
+  - [Vulnerability Assessment](https://github.com/denika01/Vulnerability-Assessment)
+  - [Ransomware Simulation](https://github.com/denika01/Ransomware-Simulation)
 
 <h2>Check Out My Blog Posts</h2>
 
