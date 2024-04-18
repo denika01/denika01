@@ -1,4 +1,4 @@
-<h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cloud Computing Engineer</a>
+<h1> Hi, I'm Denika! </br><a href="https://www.linkedin.com/in/denika-randle/">Cloud Computing Professional</a>
 <h2>Check Out My Projects</h2>
 
   - [Cloud Resume Challenge](https://github.com/denika01/Cloud-Resume)
