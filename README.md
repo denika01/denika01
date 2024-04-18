@@ -9,7 +9,7 @@
 
 <h2>Check Out My Blog</h2>
 
-- [So What's My Story?](https://dazi-tech.webflow.io/posts/meet-denika)
+- [Dazi-Tech](https://dazi-tech.webflow.io)
 
 <h2>Connect with me</h2>
 
